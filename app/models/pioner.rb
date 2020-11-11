@@ -1,0 +1,2 @@
+class Pioner < ApplicationRecord
+end
